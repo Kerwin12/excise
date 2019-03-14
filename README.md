@@ -1,2 +1,2 @@
 # excise
-noob coder
+A noob coder's excise.
